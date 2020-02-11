@@ -1,0 +1,5 @@
+def greet_user(username):
+    """Display a personalized greeting."""
+    print("Hello," username + "!")
+
+greet_user('Nickel')

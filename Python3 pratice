@@ -1,0 +1,14 @@
+# iterate voer a list
+list = [5,3,4,2,4,6,8]
+for i in list:
+    print(i)
+
+# 5
+# 3
+# 4
+# 2
+# 4
+# 6
+# 8
+
+

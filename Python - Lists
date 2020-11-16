@@ -1,1 +1,13 @@
+// making a list
+names =  ['Candace', 'Anna', 'Nicole', 'Parker', 'Lauren']
+
+//getting the first element
+first_name = names[0]
+
+//getting the second element
+second_name = namees[1]
+
+//getting the last element
+newest_name = names[-1]
+
 
